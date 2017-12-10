@@ -1,0 +1,1 @@
+{"request":{"method":"GET","url":"sss","headers":[{"ss":"dd"}],"queryParameters":[{"ff":"gg"}],"Authorization":[{"hh":"jj"}]},"response":{"status":"200","body":"sadsadfas","headers":{"Content-Type":"application/json"}}}
